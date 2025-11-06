@@ -12,7 +12,15 @@
 ## Installation
 
 ```bash
+git clone https://github.com/JosephBARBIERDARNAL/dataviz.git
+cd dataviz
 uv sync
+```
+
+Reproduce a chart:
+
+```bash
+uv run src/co2-by-country-europe
 ```
 
 <br><br><br>
