@@ -2,6 +2,21 @@
 
 <br>
 
+## Table of content
+
+- [CO2 emissions in Europe](#co2-emissions-in-europe)
+- [Inequality since the 80s](#inequality-since-the-80s)
+
+<br>
+
+## Installation
+
+```bash
+uv sync
+```
+
+<br><br><br>
+
 ### CO2 emissions in Europe
 
 ![](src/co2-by-country-europe/output.png)
