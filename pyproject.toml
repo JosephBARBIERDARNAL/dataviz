@@ -1,0 +1,15 @@
+[project]
+name = "dataviz"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "drawarrow>=0.1.0",
+    "geopandas>=1.1.1",
+    "matplotlib>=3.10.7",
+    "pandas>=2.3.3",
+    "polars>=1.35.1",
+    "pyfonts>=1.1.3",
+    "pypalettes>=0.1.6",
+]
